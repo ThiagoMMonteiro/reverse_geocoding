@@ -52,7 +52,7 @@ from geopy.geocoders import GoogleV3
 # A chave de API do GoogleV3 pode ser modificada na célula abaixo, ou pode ser utilizada esta mesma chave, até alcançar seu limite.
 
 #Definição do geolocator
-geolocator = GoogleV3(api_key = 'AIzaSyDsZMAP68b8AyWvsBapGZSSDYuF-uZ5eqY', timeout = None)
+geolocator = GoogleV3(api_key = 'USER_API_KEY - CHANGE HERE', timeout = None)
 reverse = geolocator.reverse
 
 # ### Leitura dos arquivos texto
