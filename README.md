@@ -6,7 +6,7 @@
 
 [![Reverse Geocoding](http://img.youtube.com/vi/AiKXCvikhUk/0.jpg)](http://www.youtube.com/watch?v=AiKXCvikhUk "Vídeo da execução do reverse geocoding")
 
-#See a full explanation on 
+#See a full explanation on **[Medium](https://medium.com/@thiago.monteiro2608/desenvolvimento-de-rotina-de-geocodifica%C3%A7%C3%A3o-reversa-5485aa71ee32)
 
 # Contact to linkedin
 
